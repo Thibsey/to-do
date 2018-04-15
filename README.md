@@ -1,6 +1,6 @@
 # to-do
 
-http://174.138.14.53/to-do
+http://188.166.81.81:3000/todo
 
 # node-js-playlist
 CSS and asset files for the Net Ninja YouTube nodejs playlist
